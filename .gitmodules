@@ -1,0 +1,3 @@
+[submodule "ChildMiduleA"]
+	path = ChildMiduleA
+	url = https://github.com/HN-PWang/childmodulea.git
